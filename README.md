@@ -1,4 +1,6 @@
-## Hi there 👋
+# Andrea Domínguez
+Estudiante en Desarrollo de Software Multiplataforma.
+
 
 <!--
 **And-Y21/And-Y21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
