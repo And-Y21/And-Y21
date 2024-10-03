@@ -1,5 +1,5 @@
 # :wave: Andrea Domínguez
-# 👩‍💻 Aspiring Developer | Cross-Platform Software
+## 👩‍💻 Aspiring Developer | Cross-Platform Software
 
 ### ⚙️ &nbsp;GitHub Analytics
 
