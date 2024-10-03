@@ -1,5 +1,5 @@
 # Andrea Domínguez
-Estudiante en Desarrollo de Software Multiplataforma.
+# 👩‍💻 Aspiring Developer | Cross-Platform Software
 
 
 <!--
