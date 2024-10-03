@@ -1,5 +1,16 @@
-# Andrea Domínguez
+# :wave: Andrea Domínguez
 # 👩‍💻 Aspiring Developer | Cross-Platform Software
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/And-Y21">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=And-Y21&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=And-Y21&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</a>
+</p>
+
 
 
 <!--
