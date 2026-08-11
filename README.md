@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=29&text=Andrea%20Dominguez&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=C82909&center=true&vCenter=true&width=650&lines=I%20can't%20work%20without%20coffe%20(not%20funny)" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=C82909&center=true&vCenter=true&width=650&lines=I%20can't%20work%20without%20coffee%20(not%20funny)" alt="Typing introduction" />
 </p>
 
 ## 🧠 My Focus Areas
